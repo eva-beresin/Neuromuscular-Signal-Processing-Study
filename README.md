@@ -9,7 +9,7 @@
 % compares single task performance (dynamometer squeezes) against dual
 % task performance (dynamometer squeezes while taking the Stroop Color
 % Word Test).
-%
+
 % AUTHORS
 % Team: The Flow State
 % Georgia Institute of Technology, BMED 3110, Section A04
@@ -17,7 +17,7 @@
 % * Grace Boerner
 % * Joshua McNulty
 % * Alexandra Yuan
-%
+
 % FILE DESCRIPTIONS
 % AudioFile1.m
 % This MATLAB script controls the auditory cues for the experiment and
@@ -26,7 +26,7 @@
 % frequencies (1000 Hz to start squeezing, 500 Hz to stop) at precise
 % timestamps and records the first beep to measure the exact delay
 % between the programmed start and the actual microphone detection.
-%
+
 % HARDWARE AND EQUIPMENT
 % * Handgrip dynamometer
 % * Three surface electromyography (sEMG) electrodes including a grounding
@@ -34,7 +34,7 @@
 % * BMED 3110 BioAmp 24 microcontroller with alligator clips
 % * Two laptops (one for microcontroller connectivity and audio, one for
 %   the Stroop test)
-%
+
 % SETUP AND EXECUTION
 % 1. Connect the handgrip dynamometer and sEMG electrodes to the BioAmp 24
 %    microcontroller.
